@@ -1,0 +1,5 @@
+[dan-sherwin]
+name=dan-sherwin packages
+baseurl=https://dan-sherwin.github.io/yum/rpm/$basearch/
+enabled=1
+gpgcheck=0
